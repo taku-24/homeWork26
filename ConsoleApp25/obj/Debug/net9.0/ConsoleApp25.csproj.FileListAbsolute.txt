@@ -1,0 +1,14 @@
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.exe
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.deps.json
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.runtimeconfig.json
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.dll
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.pdb
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.AssemblyInfo.cs
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.dll
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\refint\ConsoleApp25.dll
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.pdb
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.genruntimeconfig.cache
+C:\Users\antak\RiderProjects\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ref\ConsoleApp25.dll
